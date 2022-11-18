@@ -1,0 +1,14 @@
+git 
+github
+gitbash
+git add
+git commit
+touch
+checkout
+commit
+testing team
+dev team
+branch
+ls
+status
+hot fix
