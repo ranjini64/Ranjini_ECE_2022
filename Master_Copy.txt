@@ -1,0 +1,12 @@
+commands
+git
+github
+git bash
+status
+commit
+checkout
+push
+pull
+testing team 
+dev team
+hot fix
